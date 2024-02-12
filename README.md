@@ -70,11 +70,19 @@ CORS_ALLOW_ORIGINS: Lista de origens permitidas para solicitações CORS.
 Observações Este é um exemplo simples de uma API em Django para operações CRUD em uma entidade de usuário. A implementação deve ser adaptada e aprimorada conforme as necessidades específicas do projeto, incluindo autenticação, autorização, validações de entrada, tratamento de erros, entre outros. Além disso, em um ambiente de produção, considere a utilização de um banco de dados mais robusto, como PostgreSQL ou MySQL.
 
 Nesta Imagem é feito a pesquisa da pessoa cadastrada diretamente pela URL, digitando apenas o número do ID desejado, trazendo assim as informações do mesmo.
+
 ![2](https://github.com/Lvitor1002/backend-Python/assets/126728488/805c8c22-27de-40ca-9b22-fda6acbe8c2b)
+
+
+
 Retorno:
+
 ![1](https://github.com/Lvitor1002/backend-Python/assets/126728488/f17624fc-7a01-43f7-bb86-bef6c0c8a402)
 
-Área de gerênciamento do framework Django
+
+
+Área de gerênciamento do framework Django;
+
 ![3](https://github.com/Lvitor1002/backend-Python/assets/126728488/973c2128-6e76-4c5b-9f07-4c163fdd440c)
 
 
