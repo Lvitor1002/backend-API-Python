@@ -1,6 +1,6 @@
 Este documento fornece uma visão geral da API em Django e suas funcionalidades para realizar operações CRUD (Create, Read, Update, Delete) em uma entidade de usuário. A API é construída usando Django e o framework Django REST Framework.
 
-Estrutura do Projeto O projeto está estruturado da seguinte forma:
+Estrutura do Projeto: O projeto está estruturado da seguinte forma:
 
 
 
